@@ -1,0 +1,7 @@
+.env
+data/plaid_token.json
+data/transactions_cache.json
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
